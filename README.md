@@ -118,7 +118,7 @@ Models were evaluated using:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/electricity-demand-forecasting.git
+git clone https://github.com/JosephHinga/electricity-demand-forecasting
 ```
 
 ### 2. Install dependencies
