@@ -150,12 +150,9 @@ jupyter notebook notebook/Electricity_demand_ipynb.ipynb
 ## 👤 **Author**
 
 **Joseph Hinga Mwangi**
-
 Data & Risk Analyst | Data Scientist
-
 📧 [hingamwangijoseph@gmail.com](mailto:hingamwangijoseph@gmail.com)
 
-📍 Nairobi, Kenya
 
 ---
 
